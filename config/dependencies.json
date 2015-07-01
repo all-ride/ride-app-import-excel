@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        {
+            "interfaces": "ride\\library\\import\\provider\\DestinationProvider",
+            "class": "ride\\library\\import\\provider\\xls\\XlsDestinationProvider",
+            "id": "xls"
+        }
+    ]
+}
