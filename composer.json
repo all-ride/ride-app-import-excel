@@ -6,10 +6,14 @@
         {
             "name": "Joris Vandeweerd",
             "email": "joris@statik.be"
+        },
+        {
+            "name": "Kristof Serré",
+            "email": "kristof@statik.be"
         }
     ],
     "require": {
         "ride/app": "^1.0.0",
-        "ride/lib-import-excel": "^1.0.0"
+        "ride/lib-import-excel": "^2.0.0"
     }
 }
